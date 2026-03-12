@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou Otávio Macedo
 
-<!--
-**otaviomacedo2311x/otaviomacedo2311x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento Front-End  
+📚 Atualmente estudando HTML, CSS e JavaScript  
+🚀 Em busca da minha primeira oportunidade na área de tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou aprendendo
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📚 Cursos
+
+- Origamid (Front-End)
+- Refatorando
+
+---
+
+## 📂 Projetos
+
+Em breve estarei publicando meus projetos aqui.
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor
+- Criar projetos práticos
+- Construir um portfólio profissional
