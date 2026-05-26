@@ -1,4 +1,4 @@
-#👋 Olá, eu sou Otávio Macedo
+# 👋 Olá, eu sou Otávio Macedo
 
 💻 Estudante de Desenvolvimento Front-End
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Uninter
