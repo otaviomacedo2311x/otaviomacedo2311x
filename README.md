@@ -14,8 +14,6 @@
 * GitHub
 
 📚 Cursos
-
-* Origamid (Front-End)
 * Refatorando
 
 📂 Projetos
